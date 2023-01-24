@@ -17,12 +17,19 @@ BlockGame uses BlockScript, BlockGame Script.
 BlockScript:
 
 create (objtype) X(for block) Y(for block) width(for block) height(for block) - creates object
-enable (type)
+
+enable (type) -enables type
+
 start - starts game
+
 obj types:
+
 player.character
+
 blocks.simpleblock
+
 blocks.damageblock
 
 enable & disableable type:
+
 player.score - Currently not works.
