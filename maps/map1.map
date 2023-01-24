@@ -1,3 +1,4 @@
-; Used BlockGame Map Engine.
+; Used BlockGame Map Engine (v1.0)
 
 create player.character
+start
