@@ -1,6 +1,6 @@
-; Used BlockGame Map Engine (v1.0)
+; Used BlockGame Map Engine!
 
 create player.character
 create blocks.simpleblock 5 5 10 10
-create blocks.simpleblock 15 5 10 10
+create blocks.simpleblock 30 5 10 10
 start
