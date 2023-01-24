@@ -3,4 +3,5 @@
 create player.character
 create blocks.simpleblock 5 5 10 10
 create blocks.simpleblock 30 5 10 10
+create blocks.simpleblock 5 25 25 10
 start
