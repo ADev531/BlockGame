@@ -22,4 +22,4 @@ var style = '<nav class="navbar navbar-expand-lg bg-body-tertiary"> \
 
 var element = document.createElement("nav")
 element.innerHTML = style
-document.append(element)
+document.body.append(element)
