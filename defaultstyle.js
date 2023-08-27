@@ -20,4 +20,6 @@ var style = '<nav class="navbar navbar-expand-lg bg-body-tertiary"> \
 </div>\
 </nav>'
 
-document.append(style);
+var element = document.createElement("nav")
+element.innerHTML = style
+document.append(element)
